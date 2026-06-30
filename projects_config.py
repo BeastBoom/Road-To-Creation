@@ -24,6 +24,15 @@ PROJECTS = [
         "live_demo": True,
 
     },
+    {
+        "name": "ML Classifier Comparison",
+        "page_file": "2_ML_Classifier_Comparison.py",
+        "description": "Trained and compared Logistic Regression, Decision Tree, and Random Forest classifiers on the Titanic survival dataset, evaluated on accuracy and F1 score.",
+        "tech": ["Python", "Pandas", "scikit-learn"],
+        "github_url": "https://github.com/BeastBoom/Road-To-Creation/tree/main/Projects/Logistic-Decision-Random-Machine%20Learning",
+        "accent": "orange",
+        "live_demo": True,
+    },
     # Example of a project without a live demo - copy this block for projects that can't run in-browser:
     # {
     #     "name": "Kallkeyy",
