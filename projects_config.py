@@ -39,7 +39,7 @@ PROJECTS = [
         "description": "Simulated multi-account banking system with deposits, withdrawals, transfers, daily limits, and rollback-safe transaction logging.",
         "tech": ["Python", "Pandas", "OOP"],
         "github_url": "https://github.com/BeastBoom/Road-To-Creation/tree/main/Projects/Bank%20App",
-        "accent": "orange",
+        "accent": "teal",
         "live_demo": True,
     }
 ]
