@@ -33,16 +33,15 @@ PROJECTS = [
         "accent": "orange",
         "live_demo": True,
     },
-    # Example of a project without a live demo - copy this block for projects that can't run in-browser:
-    # {
-    #     "name": "Kallkeyy",
-    #     "page_file": "2_Kallkeyy.py",
-    #     "description": "Full-stack e-commerce automation with Razorpay, Shiprocket, GA4 integration.",
-    #     "tech": ["Node.js", "Express", "PostgreSQL", "Razorpay"],
-    #     "github_url": "https://github.com/BeastBoom/Road-To-Creation/tree/main/Projects/Kallkeyy",
-    #     "accent": "orange",
-    #     "live_demo": False,
-    # },
+    {
+        "name": "Bank App",
+        "page_file": "3_Bank_App.py",
+        "description": "Simulated multi-account banking system with deposits, withdrawals, transfers, daily limits, and rollback-safe transaction logging.",
+        "tech": ["Python", "Pandas", "OOP"],
+        "github_url": "https://github.com/BeastBoom/Road-To-Creation/tree/main/Projects/Bank%20App",
+        "accent": "orange",
+        "live_demo": True,
+    }
 ]
 
 ACCENT_COLORS = {
